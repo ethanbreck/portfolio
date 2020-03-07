@@ -1,0 +1,25 @@
+﻿Title: Snapchat and its Data Policy
+By ETHAN BRECKENRIDGE
+Snapchat. It's a multimedia messaging app, with an estimated 248 million users sending 7.5 billion messages daily. 
+With that many videos, images and other messages being sent on the platform, one of the questions we should be asking is who owns what?
+Do you own what you create, or are you losing the rights to every image, video, and message you send on such a widely used platform?
+In most cases, when you create something like a photo, book, or song, you own the copyright for that.
+ When you create an image, or a video, and share it through Snapchat, a lot of which licensing agreement you enter depends on how public the item is. 
+For private content that you share with your contacts, what they can do with that is a little more limited. 
+You give them a “worldwide, royalty-free, sublicensable, and transferable license” to mainly just store and distribute it, but they can also edit it, and publish how they see fit. 
+For public content, however, you grant Snapchat the ability to do basically what it wants with the content, including broadcasting it. 
+ Think about that. If you share something publicly, and in six months you see your face on a billboard or on a commercial somewhere, because of the terms of service, you can’t do anything. When you use Snapchat’s platform, that’s what you agree to. 
+You can't sue, as you agree to go to arbitration for most of the disputes.
+Now if you thought what Snapchat got from stuff you willingly shared is bad, there is a lot more that Snapchat collects, either “in-house,” throughout the app itself, or through advertisers and other third party sources. 
+So there was the information you shared when you created the app, stuff like an email address, a phone number, and date of birth. It also collects usage metrics, like how often you open the app, who you’re sending messages to, how long it takes to open messages and much more.
+ It even tracks which filters you use the most, and which people’s stories you watch the most. It collects data on your phone and what cell carriers you use. 
+It can track location, if you have it enabled, cell phone sensor data like compasses and gyroscope, microphone data, and if you have headphones connected.
+ So if you’re using an iPhone X with Verizon as your cell provider and are listening to your friend’s story through some Bluetooth headphones, that is all the basic telemetry data that Snapchat collects.
+All that personalized data that Snapchat collects is valuable, because the more data it has, and the more it can personalize your experience the more advertisers are willing to pay for it. 
+However, if you are worried about what Snapchat is collecting about you, and what it can do with your images, there are some things you can do to protect your data. 
+First, review your privacy data. This can be done by going to your Snapchat settings page, scrolling to the additional services heading, and hitting “manage.” Go through the pages in the advanced settings and set them to your liking. 
+Next, if you want to be safer with snapchat, and with your phone data in general, I recommend a VPN or a Virtual Private Network. 
+A VPN connects to a private server, before going to the open internet, which should safeguard some of the location and some other tracking information that Snapchat collects. 
+NordVPN, and Private Internet Access are two great VPNs to use, or if you want to set up your own private VPN, go to this link, and there is a video guide on how to do it: 
+https://bit.ly/2SDvn4W
+
